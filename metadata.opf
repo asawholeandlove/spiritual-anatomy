@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">51702bb3-0fc8-4026-9584-136062a2d72b</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">51702bb3-0fc8-4026-9584-136062a2d72b</dc:identifier>
+        <dc:title>Spiritual Anatomy</dc:title>
+        <dc:creator opf:file-as="D. Patel, Daaji Kamlesh" opf:role="aut">Kamlesh D Patel</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.5.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-10-24T00:00:00+00:00</dc:date>
+        <dc:description>&lt;P&gt;&lt;B&gt;&amp;quot;Exceptional&amp;hellip; &lt;I&gt;Spiritual Anatomy&lt;/I&gt; blends the wisdom of yogic philosophy with practical techniques to unlock your infinite potential.&amp;rdquo;&amp;#160;&lt;/B&gt;&lt;B&gt;&amp;mdash; Deepak Chopra, &lt;I&gt;New York Times &lt;/I&gt;bestselling author of &lt;I&gt;Quantum Body&lt;/I&gt;&lt;/B&gt;&lt;BR /&gt;&lt;B&gt;From the internationally bestselling author of &lt;I&gt;The Heartfulness Way&lt;/I&gt; comes a journey to the center of our consciousness, mapping a path for you to connect to your&amp;#160;highest self through Heartfulness meditation and guided chakra practices.&lt;/B&gt;&lt;/P&gt; When we think of wellbeing, we often think of our physical and mental health&amp;mdash;tending to our bodies and minds to find peace, purpose, and connection in our lives. But as Kamlesh D. Patel (affectionately known as Daaji), spiritual leader of the Heartfulness Organization and fourth in line to the raja yoga tradition illuminates, there is a third system we too often overlook: The Spiritual Anatomy.&lt;BR /&gt; Acting as a sort of atlas for consciousness, the...</dc:description>
+        <dc:publisher>Grand Central Publishing</dc:publisher>
+        <dc:language>en</dc:language>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>
